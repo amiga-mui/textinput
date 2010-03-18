@@ -1,5 +1,5 @@
 /*
-** $Id: mystring.h,v 1.18 2001-10-28 15:13:36 owagner Exp $
+** $Id$
 */
 
 #ifdef MBX

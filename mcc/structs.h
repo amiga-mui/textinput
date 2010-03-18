@@ -1,5 +1,5 @@
 /*
-** $Id: structs.h,v 1.20 2001-11-29 14:32:49 laursen Exp $
+** $Id$
 */
 
 #ifndef MBX

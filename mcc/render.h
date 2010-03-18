@@ -1,5 +1,5 @@
 /*
-** $Id: render.h,v 1.5 2001-02-22 17:41:46 kingguppy Exp $
+** $Id$
 */
 
 struct clipbuff {

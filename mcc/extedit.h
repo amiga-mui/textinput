@@ -1,5 +1,5 @@
 /*
-** $Id: extedit.h,v 1.1.1.1 1999-05-09 18:50:40 kingguppy Exp $
+** $Id$
 */
 
 APTR ee_add( char *filename, APTR obj, int async );

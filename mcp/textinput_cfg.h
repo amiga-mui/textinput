@@ -1,5 +1,5 @@
 /*
-** $Id: textinput_cfg.h,v 1.4 2000-07-12 10:06:38 stuntzi Exp $
+** $Id$
 */
 
 #define MUICFG_Textinput_ExternalEditor MCC_TI_ID(0)	/* STRPTR */

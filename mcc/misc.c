@@ -1,5 +1,5 @@
 /*
-** $Id: misc.c,v 1.15 2001-12-15 19:01:05 owagner Exp $
+** $Id$
 */
 
 #include "mystring.h"

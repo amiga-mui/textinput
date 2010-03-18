@@ -1,5 +1,5 @@
 /*
-** $Id: buffers.h,v 1.1 1999-08-24 01:01:18 kingguppy Exp $
+** $Id$
 */
 
 int dobuffersize( struct Data *, int );

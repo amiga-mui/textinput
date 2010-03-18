@@ -1,5 +1,5 @@
 /*
-** $Id: render.c,v 1.34 2001-10-27 22:11:16 owagner Exp $
+** $Id$
 */
 
 #include "mystring.h"

@@ -1,5 +1,5 @@
 /*
-** $Id: lists.h,v 1.2 2000-07-12 13:09:53 stuntzi Exp $
+** $Id$
 **
 ** Exec List Support Macros to overcome type quirks.
 **/

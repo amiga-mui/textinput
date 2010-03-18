@@ -1,5 +1,5 @@
 /*
-** $Id: misc.h,v 1.10 2001-02-17 02:25:07 bodylove Exp $
+** $Id$
 */
 
 #define _isinobject(x,y) (_between(_left(obj),(x),_right(obj)) && _between(_top(obj),(y),_bottom(obj)))

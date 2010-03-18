@@ -1,5 +1,5 @@
 /*
-** $Id: extensions.h,v 1.1.1.1 1999-05-09 18:50:40 kingguppy Exp $
+** $Id$
 */
 
 void openrexxport( struct Data * );

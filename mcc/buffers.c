@@ -1,5 +1,5 @@
 /*
-** $Id: buffers.c,v 1.4 2000-11-01 14:58:43 kingguppy Exp $
+** $Id$
 */
 
 #include "mystring.h"

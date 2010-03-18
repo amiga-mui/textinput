@@ -1,5 +1,5 @@
 /*
-** $Id: string.c,v 1.90 2002-05-01 22:11:18 laursen Exp $
+** $Id$
 */
 
 #include "mystring.h"

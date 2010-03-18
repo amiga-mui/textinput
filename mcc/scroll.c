@@ -1,5 +1,5 @@
 /*
-** $Id: scroll.c,v 1.16 2001-01-12 20:32:19 kingguppy Exp $
+** $Id$
 */
 
 #include "mystring.h"

@@ -1,5 +1,5 @@
 /*
-** $Id: stringprefs.c,v 1.13 2002-05-01 22:11:19 laursen Exp $
+** $Id$
 */
 
 #include "rev.h"

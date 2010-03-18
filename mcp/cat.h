@@ -1,5 +1,5 @@
 /*
-** $Id: cat.h,v 1.1.1.1 1999-05-09 18:50:36 kingguppy Exp $
+** $Id$
 */
 
 #define CATCOMP_NUMBERS
