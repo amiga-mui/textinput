@@ -1,0 +1,60 @@
+## version $VER: textinput.catalog 1.0 (26.06.2012)
+## language polski
+## codeset 5
+;
+## chunk AUTH Mariusz Danilewicz <mandi@interia.pl>
+;
+; textinput.ct - TextInput catalog Polish translation file
+; $Id$
+;
+MSG_PREFS_COLORS
+Kolory
+; Colors
+MSG_PREFS_FOREGROUND
+Pisak
+; Foreground
+MSG_PREFS_BACKGROUND
+T³o
+; Background
+MSG_PREFS_INACTIVE
+Nieaktywny:
+; Inactive:
+MSG_PREFS_ACTIVE
+Aktywny:
+; Active:
+MSG_PREFS_MARKED
+Zaznaczony:
+; Marked:
+MSG_PREFS_CURSOR
+Kursor:
+; Cursor:
+MSG_PREFS_STYLE
+Styl:
+; Style:
+MSG_PREFS_GRAB_GAD
+Przechwyæ ustawienia kolorów starego _gad¿etu ci±gów
+; _Grab old string gadget colours
+MSG_PREFS_ADD
+Dodaj
+; Add
+MSG_PREFS_DEL
+Skasuj
+; Del
+MSG_PREFS_L1
+\033uKlawisz
+; \033uKey
+MSG_PREFS_L2
+\033uDzia³anie
+; \033uAction
+MSG_PREFS_SYNC
+Wywo³uj edytor synchronicznie
+; Call editor synchronously?
+MSG_PREFS_EDITCALL
+Wywo³anie
+; Call:
+;
+; Strings for class
+;
+MSG_MINVER
+Aplikacja wymaga wersji %ld\n klasy Textinput.mcc, posiadasz zainstalowan±\nstarsz± wersjê %ld!
+; Application requests version %ld\nof Textinput.mcc, but you only\nhave version %ld installed!
